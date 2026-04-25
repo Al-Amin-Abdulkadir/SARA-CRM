@@ -1,0 +1,12 @@
+# Environment variables (never commit — contains DB credentials)
+.env
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Database file (if SQLite ever used)
+*.db

@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+alembic
+pydantic-settings
+python-dotenv
+python-multipart
+jinja2
+pandas
+numpy
+scikit-learn
